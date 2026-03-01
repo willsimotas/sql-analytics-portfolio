@@ -1,7 +1,7 @@
 /*
 Business Objective:
 Identify customers with lifetime spend > $1,000
-who have also made a purchase in the last 100 days.
+who have also made a purchase in the last 100 days.  
 
 Approach:
 1. Aggregate lifetime spend per customer.
