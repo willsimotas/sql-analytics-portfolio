@@ -1,9 +1,3 @@
-# SQL Analytics Portfolio
-
-This repository contains SQL-based analytics case studies built using PostgreSQL.
-
----
-
 ## Project 1: High-Value Active Customers
 
 ### Business Objective
